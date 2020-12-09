@@ -41,6 +41,6 @@ Our FPGA boards were not working at all. Two boards failed to connect to the com
 However, we still feel this is a strong project with tons of hard work and success.
 
 
-Thanks,
+Thanks, 
 
 Team Daydreamers
